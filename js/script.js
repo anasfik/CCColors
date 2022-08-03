@@ -169,7 +169,7 @@ let cooooolorsList = [
     "#2f3640",
   ],
   [
-    // swedish list
+    // collection 1
     "#ef5777",
     "#575fcf",
     "#4bcffa",
@@ -192,7 +192,7 @@ let cooooolorsList = [
     "#1e272e",
   ],
   [
-    // swedish list
+    // collection 2
     "#27104e",
     "#64379f",
     "#9854cb",
@@ -215,7 +215,7 @@ let cooooolorsList = [
     "#B2C8DF",
   ],
   [
-    // swedish list
+    // collection 3
     "#37E2D5",
     "#590696",
     "#C70A80",
@@ -238,7 +238,8 @@ let cooooolorsList = [
     "#069A8E",
   ],
   [
-    // swedish list
+    // collection 4
+
     "#007d00",
     "#00b3b3",
     "#007d00",
@@ -261,7 +262,7 @@ let cooooolorsList = [
     "#597237",
   ],
   [
-    // swedish list
+    // collection 5
     "#37E2D5",
     "#590696",
     "#C70A80",
