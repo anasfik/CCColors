@@ -300,4 +300,4 @@ lightmodebtn.addEventListener("click", darkmodefunc);
 // end of dark mode
 
 
-alert(changehextorgba("#16a085"));
+// alert(changehextorgba("#16a085"));
