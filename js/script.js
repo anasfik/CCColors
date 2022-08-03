@@ -286,12 +286,12 @@ darkModeStyle.setAttribute("id", "Dm");
 document.body.appendChild(darkModeStyle);
 
 function lightmodefunc() {
-  darkModeStyle.setAttribute("href", "/css/lightMode.css");
+  darkModeStyle.setAttribute("href", "./css/lightMode.css");
   darkModeIcon.style.top = "0px";
 }
 
 function darkmodefunc() {
-  darkModeStyle.setAttribute("href", "/css/darkMode.css");
+  darkModeStyle.setAttribute("href", "./css/darkMode.css");
   darkModeIcon.style.top = "-30px";
 }
 nightmodebtn.addEventListener("click", lightmodefunc);
