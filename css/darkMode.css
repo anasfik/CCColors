@@ -1,0 +1,9 @@
+:root {
+  --primary-color: #e6e6e6;
+  --secondary-color: #0b0c0c;
+  --third-color: #151718;
+}
+
+.left-a:hover:not(.left-active) {
+  background: #121414;
+}
