@@ -1,9 +1,6 @@
 # CCColors
 ## A simple easy to use web page to work with colors Pallette/Collection  
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 this is a simple design, easy to use webpage for designers, developers, writers... to choose colors that may be useful and make your work more eye catching/productive !
 ### What colors inside it ?
