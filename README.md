@@ -6,10 +6,12 @@ this is a simple design, easy to use webpage for designers, developers, writers.
 ### What colors inside it ?
 - 6 Pallette chosen carefully by researchin 
 - 5 collections that creator choosed 
-
-
+<a href="https://anasfik.github.io/CCColors/">
+Demo Link Url</a>
+</br>
+</br>
 ## Features
-
+<br>
 - Dark mode
 - easy hex color copy to clipbord(just a click on color box)
 - easy navigation between pallette/collections
